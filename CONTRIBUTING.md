@@ -56,7 +56,7 @@ development purposes but also feel free to just use the containers and update wi
 
 
 ### Local Set Up
-It is recommended to use Python versions >= 3.11.
+It is recommended to use Python versions >= 3.11 < 3.12.
 
 This guide skips setting up User Authentication for the purpose of simplicity
 
